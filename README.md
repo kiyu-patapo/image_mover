@@ -15,7 +15,7 @@
 
 - **OS**: Windows 10 / 11 (推奨)
 - **Python**: 3.10 以上
-- **依存ライブラリ**:
+- **依存ライブラリ**:PyQt6
 ```bash
 pip install PyQt6
 ```
