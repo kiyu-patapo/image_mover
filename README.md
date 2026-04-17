@@ -16,7 +16,8 @@
 - **OS**: Windows 10 / 11 (推奨)
 - **Python**: 3.10 以上
 - **依存ライブラリ**:
-  ```bash
-  pip install customtkinter tkinterdnd2
+```bash
+pip install PyQt6
+```
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/patalabo)
